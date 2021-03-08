@@ -21,3 +21,15 @@ font-family: sans-serif;
 #contents, #favs, #facts, #types {
   color: #93a1a1;
 }
+
+wrapper > .dfn {
+  background-color: #b58900;
+}
+
+.dfn + strong {
+  color: #fff;
+}
+
+a {
+  .no-highlight
+}
